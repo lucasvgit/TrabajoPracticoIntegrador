@@ -1,4 +1,4 @@
-# 🏛️ Sistema Integrador de Mesa de Ayuda (Ticketing) - Java
+Sistema Integrador de Mesa de Ayuda (Ticketing) - Java
 
 Descripción del Proyecto
 
